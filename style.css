@@ -1,0 +1,40 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+width: 100%;
+font-size: 23px;
+color: aliceblue;
+margin: 0px;
+}
+
+.redirect
+{
+    width:320px;
+    font-size: 20px;
+}
+
+#icon
+{
+width: 100px;
+height: 80px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px purple;
+    border-radius: 10px;
+}
+#status
+{
+font-size: 23px;
+}
+#logout
+{
+	font-size: 20px; 
+    float: right;
+    margin-right: 20px;
+}
